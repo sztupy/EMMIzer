@@ -25,11 +25,24 @@ a Word Replacer nevű kiegészítőt:
 
 https://chrome.google.com/webstore/detail/word-replacer/djakfbefalbkkdgnhkkdiihelkjdpbfh?hl=hu
 
+![install extension](https://raw.githubusercontent.com/sztupy/EMMIzer/master/install/Step_install_extension.png)
+
 Ha feltelepítettük menjünk a kiegészítő beállításai közé, és nyomjuk meg az Import gombot.
 
-A felbukkanó szövegmezőbe másoljuk bele a `result.json` nevű fájl tartalmát, majd kattintsunk a 
-`Save Settings` gombra. Amint ezt megtettük, az összes újonnan megnyílt böngészőablakban, már helyes,
-EMMI kompatibilis módon böngészhetünk.
+![setup extension](https://raw.githubusercontent.com/sztupy/EMMIzer/master/install/Step_setup_extension.png)
+
+![extension settings](https://raw.githubusercontent.com/sztupy/EMMIzer/master/install/Step_extension_settings.png)
+
+A felbukkanó szövegmezőbe másoljuk bele a [`result.json`](https://raw.githubusercontent.com/sztupy/EMMIzer/master/result.json)
+nevű fájl tartalmát, majd kattintsunk a `Save Settings` gombra.
+
+![import](https://raw.githubusercontent.com/sztupy/EMMIzer/master/install/Step_Import.png)
+
+![after import](https://raw.githubusercontent.com/sztupy/EMMIzer/master/install/Step_after_import.png)
+
+Amint ezt megtettük, az összes újonnan megnyílt böngészőablakban, már helyes, EMMI kompatibilis módon böngészhetünk.
+
+![example](https://raw.githubusercontent.com/sztupy/EMMIzer/master/install/Example.png)
 
 Program eltávolítása
 ====================
