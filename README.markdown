@@ -62,6 +62,8 @@ miatt a használót esetleges retorziók érnék.
 
 Minden esetre amennyiban hibát tapasztal, kérem a GitHub hibabejelentő felületén jelezze:
 
+https://github.com/sztupy/EMMIzer/issues
+
 Licensz
 =======
 
