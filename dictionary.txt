@@ -1,0 +1,157 @@
+tandíj|tandíjmentes felsőoktatás
+oktató-kutató életpályamodell|oktató-kutató életpálya
+röghöz kötés|hallgatói nyilatkozat
+keretszám|kapacitásszám
+gazdasági főigazgató|az intézmény működtetéséért felelős felsővezető menedzser
+pedagógus életpályamodell|pedagógus-életpálya
+reform|finomhangolás
+szolgálja|támogatja
+spórolás|megtakarítás
+tudósok|szakírók
+szociális munka|iskolai közösségi szolgálat
+közoktatás|köznevelés
+pedagógusfizetés|pedagógusbér
+napközi|délutáni foglalkozás
+egész napos iskola|délutáni foglalkozás
+esélyegyenlőség|esélyteremtés
+kártérítés|kárenyhítés
+etnikum|roma nemzetiség
+kisebbség|roma nemzetiség
+felzárkóztatás|felzárkózás
+befogadás|társadalmi együttműködés
+cigány|roma
+kisebbségi|nemzetiségi
+fogyatékos|fogyatékossággal élő ember
+rászoruló|segítségre szoruló
+kohézió|összetartozás
+térség|járás
+kistérség|járás
+szegénység csökkentése|társadalmi felzárkózás
+szegénység|rászorultság
+szegény|elmaradott
+szegénységben élő|nehéz helyzetben élő
+szegregátum|elmaradott településrész
+szegregált|kiszorult
+befogadás|társadalmi együttműködés
+önkéntes munka|önkéntes tevékenység
+családon belüli erőszak|kapcsolati erőszak
+hozzátartozók közötti erőszak|kapcsolati erőszak
+párkapcsolati erőszak|kapcsolati erőszak
+egészséges|ép
+tolókocsi|kerekesszék
+tolószék|kerekesszék
+süket|siket
+shelter|Átmeneti Szállás
+Átmeneti Szálló|Átmeneti Szállás
+menhely|Titkos Menedékház
+Titkos Ház|Titkos Menedékház
+krízisközpont|Titkos Menedékház
+segély|támogatás
+anyaotthon|családok átmeneti otthona
+kliens|ellátott
+növendék|ellátott
+felnőttkorú|fiatal felnőtt
+gyám|gondnok
+gyámügy|gyámhivatal
+gyerek|gyermek
+árva|gyermek
+hetes gyermekotthon|gyermekek átmeneti otthona
+gyermekvédelmi alapellátás|gyermekjóléti alapellátás
+gyermekvédelmi központ|gyermekjóléti központ
+gyermekvédelmi szolgálat|gyermekjóléti szolgálat
+árvaház|gyermekotthon
+nevelőintézet|lakásotthon
+nevelőotthon|gyermekotthon
+állami gondozás|gyermekvédelmi gondoskodás
+állami nevelés|gyermekvédelmi szakellátás
+intézeti nevelés|gyermekvédelmi szakellátás
+állami gondozott|gyermekvédelmi szakellátásban részesülő
+intézeti nevelt|gyermekvédelmi szakellátott
+javító-nevelő intézet|javítóintézet
+fiatalkorúak börtöne|javítóintézet
+csecsemőotthon|gyermekotthon
+szellemi fogyatékos|különleges ellátási szükségletű
+sajátos nevelési igényű|különleges ellátási szükségletű
+egészségügyi gyermekotthon|különleges lakásotthon
+gyógypedagógiai intézet|ápoló-gondozó otthon
+lakóotthon|lakásotthon
+állami gondozott|nevelésbe vett
+állami nevelt|nevelésbe vett
+intézeti nevelt|nevelésbe vett
+tartós nevelt|nevelésbe vett
+örökbefogadó szülő|nevelőszülő
+hivatásos nevelőszülői jogviszony|nevelőszülői foglalkoztatási jogviszony
+nevelőszülő-felügyelő|nevelőszülői tanácsadó
+örökbeadható|örökbefogadható
+zárt intézet|speciális lakásotthon
+működési engedély|szolgáltatói nyilvántartás
+GYIVI|TEGYESZ
+utógondozói otthon|utógondozó otthon
+védő-óvó intézkedés|védelembe vétel
+hivatásos gyám|gyermekvédelmi gyám
+eseti gondnok|eseti gyám
+zsidó|izraelita
+mohamedán|muszlim
+jehovás|Jehova tanúja
+jevohista|Jehova tanúi
+krisnás|krisnatudatú
+állam és az egyház összefonódása|állam és a vallási közösségek együttműködése
+biznisz egyház|vallási tevékenységet végző szervezet
+szekta|vallási közösség
+állam és egyház szétválasztása|állam és vallási közösség különváltan működik
+álami kultúrpolitika|állami szerepvállalás
+Kulturális Örökségvédelmi Hivatal|Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ
+kultúrkampf|értékvita
+kiszervezés|fenntartóváltás
+lakosság|közösség
+nyugdíjkassza|nyugdíjbiztosítási alap
+egyenlő elbánás|egyenlő bánásmód
+korkedvezményes nyugdíjak|korhatár előtti öregségi nyugdíjellátás
+kisnyugdíjas|alacsony összegű nyugellátásban részesülő
+rokkant|megváltozott munkaképességű
+nyugdíjemelés|nyugdíjak reálértékének megőrzése
+demográfiai öregedés|demográfiai idősödés
+előregedés|idősödés
+öreg|idős
+esélyegyenlőség|esélyteremtés
+önkéntes munka|önkéntes tevékenység
+terhes|várandós
+nemek esélyegyenlősége|nők és férfiak társadalmi egyenlősége
+korai fejlesztés|kora gyermekkori képességgondozás
+szingli|egyedülálló
+sokgyermekes|többgyermekes
+csonka család|gyermekét egyedül nevelő szülő
+normatíva|költségvetési támogatás
+működési engedély|szolgáltatói nyilvántartásba vétel
+0 éves kortól|csecsemőkortól
+TGYÁS|CSED
+szocpol|Családok Otthontermtési Kedvezménye
+néma|beszédfogyatékos
+értelmi sérült|értelmi fogyatékos
+mentálisan sérült|tanulásban akadályozott
+világtalan|vak
+bénult|mozgáskorlátozott
+beteg|halmozottan fogyatékos
+nagyothalló készülék|hallókészülék
+stadion|sportlétesítmény
+tömegsport|szabadidősport
+tornaóra|testnevelésóra
+süketnéma tolmács|jelnyelvi tolmács
+jelbeszéd|jelnyelv
+mutogatás|jelnyelv
+beszélő|halló
+normál iskola|többségi iskola
+gondozó|személyi segítő
+fogyatékos szervezetek|fogyatékosok szervezetei
+paraolimpia|paralimpia
+határon túli|külhoni
+munkanélküli|álláskereső
+nép|nemzet
+társadalomfejlődés|társadalmi változás
+társadalom|közösség
+civil|polgátok önszerveződő
+gyermekszegénység|szegénységben élő gyermekek
+mélyszegénység|tartós szegénység
+társadalmi befogadás|társadalmi felzárkózás
+lemorzsolódás|végzettség nélküli iskolaelhagyás
+egész napos iskola|délutáni foglalkozás
